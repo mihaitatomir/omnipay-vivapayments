@@ -1,5 +1,4 @@
 # Omnipay: VivaPayments
-# Omnipay: VivaPayments
 
 **VivaPayments driver for the Omnipay PHP payment processing library**
 
